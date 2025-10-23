@@ -38,9 +38,6 @@ Both models are augmented with motion features derived from optical flow to enha
 | **Weighted F1-Score**| 0.84 | **0.92** |
 | Recall (Fake Class) | 0.72 | **0.85** |
 
-![Cross-Dataset Confusion Matrices](path/to/your/cm_comparison_image.png)
-*Figure 1: Confusion matrices for CNN-ViT (left) and CNN-LSTM (right) on the cross-dataset test, highlighting the superior robustness of the ViT model.*
-
 ## Setup and Installation
 
 This project was developed using Python 3.10 and PyTorch 2.2 in a Google Colab environment with an NVIDIA L4 GPU.
