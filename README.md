@@ -44,15 +44,10 @@ This project was developed using Python 3.10 and PyTorch 2.2 in a Google Colab e
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/JTZY09/AI-Generated-Video-Detection-using-Hybrid-Architectures/tree/main
-    cd your-repo-name
+    git clone https://github.com/JTZY09/AI-Generated-Video-Detection-using-Hybrid-Architectures.git
     ```
 
 2.  **Install dependencies:**
-    It is recommended to use a virtual environment.
-    ```bash
-    pip install -r requirements.txt
-    ```
     Key dependencies include: `torch`, `torchvision`, `opencv-python`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`.
 
 ## Data Preparation
