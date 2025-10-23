@@ -11,6 +11,7 @@ This project investigates and benchmarks a novel hybrid deep learning framework 
 
 Both models are augmented with motion features derived from optical flow to enhance the detection of physical and temporal inconsistencies. Our findings demonstrate that the **CNN-ViT architecture is significantly more robust and accurate**, establishing it as a state-of-the-art solution for this task.
 
+To use the APP click this link: https://ai-generated-video-detection-using-hybrid-architectures-vlfwhv.streamlit.app/
 ## Key Features
 
 - **Hybrid Framework:** Combines a pre-trained ResNet-18 for spatial feature extraction with a dedicated temporal backbone.
