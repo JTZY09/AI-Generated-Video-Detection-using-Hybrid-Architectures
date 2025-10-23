@@ -44,7 +44,7 @@ This project was developed using Python 3.10 and PyTorch 2.2 in a Google Colab e
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/JTZY09/AI-Generated-Video-Detection-using-Hybrid-Architectures/tree/main
     cd your-repo-name
     ```
 
