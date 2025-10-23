@@ -64,10 +64,12 @@ The training scripts expect data to be pre-processed and organized as follows:
 ### Training and Evaluation
 
 To train and evaluate a model, run the corresponding script. Ensure the paths to your local data are correctly set within the script.
-
+**Train the CNN-LSTM model:**
+```bash
+python train_cnn_lstm.py
+```
 **Train the CNN-ViT model:**
 ```bash
 python train_cnn_vit.py
+```
 
-**Train the CNN-LSTM model:**
-python train_cnn_lstm.py
